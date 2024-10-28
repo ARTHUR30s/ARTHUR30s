@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARTHUR30si
+- 👋 Hi, I’m @ARTHUR30s
 - 👀 I’m interested in coding, robotics, and building innovative projects that solve real-world problems.
 - 🌱 I’m currently learning Python, along with web development, and plan to dive into C++ and JavaScript next.
 - 💞️ I’m looking to collaborate on projects related to robotics, automation, or anything that involves creative coding solutions.
